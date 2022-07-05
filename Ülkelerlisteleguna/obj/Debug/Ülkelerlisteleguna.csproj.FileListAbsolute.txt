@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Ülkelerlisteleguna\bin\Debug\Ülkelerlisteleguna.exe.config
+C:\Users\PC\Desktop\Ülkelerlisteleguna\bin\Debug\Ülkelerlisteleguna.exe
+C:\Users\PC\Desktop\Ülkelerlisteleguna\bin\Debug\Ülkelerlisteleguna.pdb
+C:\Users\PC\Desktop\Ülkelerlisteleguna\bin\Debug\Guna.UI.dll
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.Form1.resources
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.Properties.Resources.resources
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.exe
+C:\Users\PC\Desktop\Ülkelerlisteleguna\obj\Debug\Ülkelerlisteleguna.pdb
